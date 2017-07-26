@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 namespace BlackJack
+//Dealer's hand
 {
     class Dealer
     {
